@@ -1,3 +1,5 @@
+This repository contains a basic random password generator built using Angular. The mini app generates passwords with a combination of capital letters, small letters, numbers, and symbols. Users are required to enter the desired length of the password and specify the requirements such as the inclusion of letters, numbers, and symbols.
+
 # Pwg
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.1.
